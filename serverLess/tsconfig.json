@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["**/*"]
+}
